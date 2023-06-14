@@ -3,6 +3,10 @@ body {
   background-color: #f4f5f7;
 }
 
+ul {
+  list-style: none;
+}
+
 #headline {
   border-radius: 0 0 0 5rem;
   background-image: url("../images/header-bg.svg");
@@ -21,4 +25,14 @@ body {
 
 #about-myself {
   border-radius: 0 5rem 0 0;
+}
+
+.cardHover{
+  border: 1px solid #DFE1E6;
+  border-radius: 24px;
+}
+
+.cardHover:hover {
+  border: 2px solid #A7AEFF;
+  box-shadow: 5px 5px 50px #A7AEFF;
 }
