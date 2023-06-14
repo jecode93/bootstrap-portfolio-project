@@ -1,10 +1,19 @@
 body {
   font-family: 'Poppins', sans-serif;
+  background-color: #f4f5f7;
 }
 
 #headline {
   border-radius: 0 0 0 5rem;
-  background-image: url(../images/Header\ bg.svg);
+  background-image: url("../images/header-bg.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: center;
+}
+
+#contact-me {
+  border-radius: 5rem 0 0 0;
+  background-image: url("../images/desktop-contact-bg.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position-x: center;
