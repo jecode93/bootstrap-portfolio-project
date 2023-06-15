@@ -65,9 +65,6 @@
 - **[Pure html]**
 - **[Pure css]**
 
-
-<!-- LIVE DEMO -->
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -115,7 +112,7 @@ You can deploy this project using:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://jecode93.github.io/bootstrap-portfolio-project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
